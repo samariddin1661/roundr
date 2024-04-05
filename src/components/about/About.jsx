@@ -7,15 +7,15 @@ import imgAbout from "../../images/about.png"
 const DYMMY_DATA=[
   {
       id:1,
-      box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, Round Rock Donuts is a culinary institution that serves up more than its two-pound titan. Enjoy a regular-sized donut or some donut holes (both distinctly yellow due to the use of fresh eggs), a cream-filled éclair, a kolache, or pastry. Regardless of what you opt for, you certainly won’t be leaving Round Rock Donuts hungry."
+      box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, "
   },
   {
     id:2,
-    box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, Round Rock Donuts is a culinary institution that serves up more than its two-pound titan. Enjoy a regular-sized donut or some donut holes (both distinctly yellow due to the use of fresh eggs), a cream-filled éclair, a kolache, or pastry. Regardless of what you opt for, you certainly won’t be leaving Round Rock Donuts hungry."
+    box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, "
 },
 {
   id:3,
-  box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, Round Rock Donuts is a culinary institution that serves up more than its two-pound titan. Enjoy a regular-sized donut or some donut holes (both distinctly yellow due to the use of fresh eggs), a cream-filled éclair, a kolache, or pastry. Regardless of what you opt for, you certainly won’t be leaving Round Rock Donuts hungry."
+  box:" Weighing in at two pounds, the world-famous Texas-Sized Donut must be seen to be believed. Featured on the Travel Channel’s Man vs. Food and countless newspapers and websites, this colossal confection brings people from all over the nation to Round Rock Donuts.Founded in 1926, "
 }
 ]
 
