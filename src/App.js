@@ -14,6 +14,7 @@ const App = () => {
           <Main/>
       </Suspense>
       {/* <Testymonials/> */}
+      <Loader/>
     </div>
   )
 }

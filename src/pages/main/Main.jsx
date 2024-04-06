@@ -4,6 +4,7 @@ import Services from '../../components/services/Services'
 import About from '../../components/about/About'
 import Testymonials from '../../components/Testymonials/Testymonials'
 import Contac from '../../components/contact/Contac'
+import Loader from '../../components/Loader'
 
 
 const main = () => {
@@ -14,6 +15,7 @@ const main = () => {
       <About/>
       <Testymonials/>
       <Contac/>
+      <Loader/>
     </div>
   )
 }
