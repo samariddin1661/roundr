@@ -1,5 +1,6 @@
 import { Suspense, lazy } from "react"
 import Loader from "./components/Loader"
+// import Testymonials from "./components/Testymonials/Testymonials"
 // import Services from "./components/services/Services"
 // import About from "./components/about/About"
 // import Header from "./components/header/header"
@@ -11,10 +12,8 @@ const App = () => {
     <div>
       <Suspense fallback={<Loader/>}>
           <Main/>
-          {/* <Services/> */}
-          {/* <About/> */}
       </Suspense>
-      
+      {/* <Testymonials/> */}
     </div>
   )
 }
