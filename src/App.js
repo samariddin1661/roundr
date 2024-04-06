@@ -13,8 +13,6 @@ const App = () => {
       <Suspense fallback={<Loader/>}>
           <Main/>
       </Suspense>
-      {/* <Testymonials/> */}
-      <Loader/>
     </div>
   )
 }

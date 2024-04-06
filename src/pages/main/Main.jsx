@@ -15,7 +15,7 @@ const main = () => {
       <About/>
       <Testymonials/>
       <Contac/>
-      <Loader/>
+      {/* <Loader/> */}
     </div>
   )
 }
