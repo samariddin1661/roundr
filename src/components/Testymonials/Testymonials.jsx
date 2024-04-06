@@ -73,6 +73,7 @@ const Testymonials = () => {
         
       </div>
       <div className='shadow-[#80ff6c] hover:shadow-[#80ff6c] shadow-sm hover:shadow-lg rounded-full'><Button/></div>
+      <hr /><hr />
     </div>
   )
 }
