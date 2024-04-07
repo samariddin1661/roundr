@@ -5,6 +5,7 @@ import About from '../../components/about/About'
 import Testymonials from '../../components/Testymonials/Testymonials'
 import Contac from '../../components/contact/Contac'
 import Loader from '../../components/Loader'
+import Footer from '../../components/footer/Footer'
 
 
 const main = () => {
@@ -15,6 +16,7 @@ const main = () => {
       <About/>
       <Testymonials/>
       <Contac/>
+      <Footer/>
       {/* <Loader/> */}
     </div>
   )

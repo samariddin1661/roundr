@@ -6,7 +6,7 @@ import { FaPhoneAlt,FaInstagramSquare,FaGithubSquare } from "react-icons/fa";
 import { FaLocationDot,FaTelegram } from "react-icons/fa6";
 const Contac = () => {
   return (
-    <div className='w-full '>
+    <div className='w-full my-[50px] '>
       <div className='flae flex-col gap-[60px]'>
       <div className='relative'>
         <img src={img} alt="img" className='absolute md:w-[100px] w-[70px] right-[50%]' />
