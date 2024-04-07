@@ -21,21 +21,21 @@ const Contac = () => {
         </div>
         <div className='flex flex-col gap-[30px] md:text-[14px] text-[12px]'>
           <span className='flex gap-[40px]'>
-            <i className='w-[20px] text-[25px] text-[#4DB96B]'><MdOutlineMail /></i>
+            <i className='w-[20px] md:text-[25px] text-[18px] text-[#4DB96B]'><MdOutlineMail /></i>
             <p>test@gmail.com</p>
           </span>
           <span className='flex gap-[40px]'>
-            <i className='w-[20px] text-[25px] text-[#4DB96B]'><FaPhoneAlt /></i>
+            <i className='w-[20px] md:text-[25px] text-[18px] text-[#4DB96B]'><FaPhoneAlt /></i>
             <p>(303) 555-0105</p>
           </span>
           <span className='flex gap-[40px]'>
-            <i className='w-[20px] text-[25px] text-[#4DB96B]'><FaLocationDot /></i>
+            <i className='w-[20px] md:text-[25px] text-[18px] text-[#4DB96B]'><FaLocationDot /></i>
             <p>2715 Ash Dr. San Jose, South Dakota 83475</p>
           </span>
-          <span className='flex gap-[50px]'>
-            <a href="#" className='bg-[#4DB96B] text-[#d22828] p-4 rounded-full text-[20px]'><FaInstagramSquare  /></a>
-            <a href="#" className='bg-[#4DB96B] text-[#016d8b] p-4 rounded-full text-[20px]'><FaTelegram /></a>
-            <a href="#" className='bg-[#4DB96B] text-[#000000] p-4 rounded-full text-[20px]'><FaGithubSquare /></a>
+          <span className='flex w-full justify-center items-center gap-[50px]'>
+            <a href="#" className='bg-[#4DB96B] text-[#d22828] p-4 rounded-full md:text-[20px] text-[15px]'><FaInstagramSquare  /></a>
+            <a href="#" className='bg-[#4DB96B] text-[#016d8b] p-4 rounded-full md:text-[20px] text-[15px]'><FaTelegram /></a>
+            <a href="#" className='bg-[#4DB96B] text-[#000000] p-4 rounded-full md:text-[20px] text-[15px]'><FaGithubSquare /></a>
           </span>
         </div>
       </div>
