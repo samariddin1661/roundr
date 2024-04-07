@@ -56,13 +56,13 @@ const Testymonials = () => {
           </div>
         <div className='text-[#6CB981] flex flex-col gap-3'>
           <h1 className='md:text-[18px] text-[16px] font-[600]'>{item.titli}</h1>
-          <p className='md:max-w-[320px] max-w-[300px] md:text-[14px] text-[12px] leading-[18px]'>{item.discription}</p>
+          <p className='md:max-w-[380px] max-w-[300px] w-fuul md:text-[14px] text-[12px] leading-[18px]'>{item.discription}</p>
           <i>
           <StarRatings
             rating={item.rating}
             starDimension="20px"
             starSpacing="3px"
-            starRatedColor="#6CB982"
+            starRatedColor="gold"
           />
           </i>
         </div>
